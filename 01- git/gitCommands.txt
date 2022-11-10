@@ -1,0 +1,86 @@
+-----------------
+mkdir
+This is a Linux command used to create a new folder
+-----------------
+-----------------
+cd
+This is a Linux command use to change directory.
+-----------------
+-----------------
+touch [file]
+This is a Linux command to Create a file
+-----------------
+-----------------
+vi [file]
+This is a Linux command to Modify a file
+-----------------
+-----------------
+cat [file]
+This is a Linux command to See the content of a file
+-----------------
+-----------------
+rm -rf [file]
+This is a Linux command to Delete a file
+-----------------
+-----------------
+git init
+initialize an existing directory as a Git repository
+-----------------
+-----------------
+git status
+show modified files in working directory, staged for your next commit
+-----------------
+-----------------
+git add [file]
+add a file as it looks now to your next commit (stage)
+-----------------
+-----------------
+git commit -m “[descriptive message]”
+commit your staged content as a new commit snapshot
+-----------------
+-----------------
+git restore --staged file_name
+-----------------
+-----------------
+git log
+show the commit history for the currently active branch
+-----------------
+-----------------
+git stash
+Save modified and staged changes
+-----------------
+-----------------
+git stash pop
+write working from top of stash stack
+-----------------
+-----------------
+git stash drop - clear
+discard the changes from top of stash stac
+-----------------
+-----------------
+git remote add origin [url]
+add a git URL as an alias
+-----------------
+-----------------
+git push [alias] [branch]
+Transmit local branch commits to the remote repository branch
+-----------------
+-----------------
+
+-----------------
+-----------------
+
+-----------------
+-----------------
+
+-----------------
+-----------------
+
+-----------------
+-----------------
+
+-----------------
+-----------------
+
+-----------------
+
