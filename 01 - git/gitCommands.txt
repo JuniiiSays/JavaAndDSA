@@ -70,10 +70,12 @@ git branch [branch name]
 creat a new branch
 -----------------
 -----------------
-
+git merge [Branch Name]
+use to merge 2 branches
 -----------------
 -----------------
-
+git checkout [Branch Name]
+use to switch between differnet branches
 -----------------
 -----------------
 
