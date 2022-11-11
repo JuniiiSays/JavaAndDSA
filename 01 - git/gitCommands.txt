@@ -94,7 +94,8 @@ git fetch [alias]
 fetch down all the branches from that Git remote
 -----------------
 -----------------
-
+git rebase -i [Commit Id]
+to squash different commits in 1 
 -----------------
 -----------------
 
