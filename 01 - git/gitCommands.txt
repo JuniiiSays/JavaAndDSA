@@ -62,6 +62,14 @@ git remote add origin [url]
 add a git URL as an alias
 -----------------
 -----------------
+git remote add upstream [url]
+add a parent repositry git URL as an alias
+-----------------
+-----------------
+git remote -v
+to see the origin and upstream
+-----------------
+-----------------
 git push [alias] [branch]
 Transmit local branch commits to the remote repository branch
 -----------------
