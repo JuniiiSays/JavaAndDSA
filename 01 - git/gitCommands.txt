@@ -90,7 +90,8 @@ git clone [url]
 retrieve an entire repository from a hosted location via URL
 -----------------
 -----------------
-
+git fetch [alias]
+fetch down all the branches from that Git remote
 -----------------
 -----------------
 
